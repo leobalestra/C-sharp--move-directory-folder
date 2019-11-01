@@ -1,0 +1,7 @@
+C:\Users\lbalestra\source\repos\RecorderFolder\RecorderFolder\bin\Debug\RecorderFolder.exe.config
+C:\Users\lbalestra\source\repos\RecorderFolder\RecorderFolder\bin\Debug\RecorderFolder.exe
+C:\Users\lbalestra\source\repos\RecorderFolder\RecorderFolder\bin\Debug\RecorderFolder.pdb
+C:\Users\lbalestra\source\repos\RecorderFolder\RecorderFolder\obj\Debug\RecorderFolder.csprojResolveAssemblyReference.cache
+C:\Users\lbalestra\source\repos\RecorderFolder\RecorderFolder\obj\Debug\RecorderFolder.csproj.CoreCompileInputs.cache
+C:\Users\lbalestra\source\repos\RecorderFolder\RecorderFolder\obj\Debug\RecorderFolder.exe
+C:\Users\lbalestra\source\repos\RecorderFolder\RecorderFolder\obj\Debug\RecorderFolder.pdb
